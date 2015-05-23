@@ -70,6 +70,7 @@
     <Compile Include="Source\GUI\Utility\VCStatusIcons.cs" />
     <Compile Include="Source\GUI\Utility\Terminology.cs" />
     <Compile Include="Source\GUI\Utility\VCValidateConfiguration.cs" />
+    <Compile Include="Source\GUI\Windows\VCToggleVersionControl.cs" />
     <Compile Include="Source\GUI\Windows\CustomDialog.cs" />
     <Compile Include="Source\GUI\Windows\P4\P4ConnectionTool.cs" />
     <Compile Include="Source\GUI\Windows\VCAboutWindow.cs" />
